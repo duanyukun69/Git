@@ -1,1 +1,1 @@
-This is a delete.
+This is a delete file.
